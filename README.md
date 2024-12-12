@@ -5,6 +5,9 @@
 <a href='https://motionshop-diffusion.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 <a href='https://motionshop-diffusion.github.io/supp.html'><img src='https://img.shields.io/badge/Supplementary-Page-yellow'></a>
 
+<h3 align="center">💻 Code will be added soon! Stay tuned! 🚀</h3>
+
+
 <p align="center">
   <img src="assets/teaser.gif" width="1000" >
 </p>
